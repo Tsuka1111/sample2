@@ -1,12 +1,29 @@
-# マークダウンで書いたページ 
-人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に
-立てれば最高! 
-## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい 
-脳科学を通して伝えたいことはシンプルで「生きている者が勝ち！」ということです。 
-ほとんどの生物の目的というのは「生き延びること」と「子孫を残すこと」なんです
-ね。 
-ですが人間だけはそうではない。「ひと花咲かせよう！」みたいなのがあって、これが
-すごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、で
-もその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけで
-す。
+# h1 Heading 
+## h2 Heading 
+### h3 Heading 
+#### h4 Heading 
+##### h5 Heading 
+###### h6 Heading 
  
+## Emphasis 
+**This is bold text** 
+__This is bold text__ 
+ 
+*This is italic text* 
+_This is italic text_ 
+ 
+~~Strikethrough~~ 
+ 
+## Blockquotes 
+> Blockquotes can also be nested... 
+>> ...by using additional greater-than signs right next to each other... 
+> > > ...or with spaces between arrows. 
+ 
+## Lists 
+Unordered 
+ 
++ Create a list by starting a line with `+`, `-`, or `*` 
++ Sub-lists are made by indenting 2 spaces: 
+  - Marker character change forces new list start: 
+    * Ac tristique libero volutpat at 
+    + Facilisis in pretium nisl aliquet 
